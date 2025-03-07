@@ -1,0 +1,11 @@
+/*
+Theme Name:     Blue
+Description:     Blue theme
+Author:         znoor
+Template:       astra
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+#ast-desktop-header a, #content a{
+    color: #6567b9;
+}
